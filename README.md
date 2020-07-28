@@ -2,6 +2,8 @@
 A mathematical martix calculator
 https://hyperskill.org/projects/96
 
+<img src="https://github.com/ishwarjagdale/NumericMatrixProcessor/blob/master/demonstration.gif" width="640" height="324"/>
+
 ## Syntax
 ```
 processor.py
@@ -20,8 +22,8 @@ Multiply matrices and create a menu where you can list all the awesome abilities
 **Stage #4 Transpose**  
 Add another useful operation to your processor: allow matrix transposition, and then add this option to the menu.
 
-**Stage #5 Determined**  
+**Stage #5 Determined!**  
 Use recursion to enable your program to find the determinant.
 
-**Stage #6 Inverse matrix**  
+**Stage #6 Inverse matrix!**  
 Yet another possible operation is finding the inverse of a matrix: add this option to your program.
